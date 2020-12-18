@@ -1,3 +1,3 @@
-#Mobil Programlama vize ödevidir!
+Mobil Programlama vize ödevidir
 
-#Uşak Üniversitesi (UZEM) / Bilgisayar Programcılığı
+Uşak Üniversitesi (UZEM) / Bilgisayar Programcılığı
